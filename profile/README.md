@@ -1,7 +1,7 @@
 <div align="center">
   <img src="bakify-lab-logo.png" alt="Bakify Logo" width="120" height="120">
   
-  # Bakify Group
+  # Bakify Lab
   
   **"Bake It Happen!"**
   
